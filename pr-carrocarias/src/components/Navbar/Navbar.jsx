@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Navbar.css'
-import fullLogo from '../../assets/full-logo-black.png'
+import fullLogo from '../../assets/small-logo-branco.png'
 
 const Navbar = () => {
 
